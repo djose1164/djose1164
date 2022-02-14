@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on an awesome game in C.
-- 🌱 I’m currently learning Kotlin, DSA...
-- 👯 I’m looking to collaborate on projects written in C, Python or Java.
+![djose1164's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 <!--
 **djose1164/djose1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
