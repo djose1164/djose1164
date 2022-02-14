@@ -1,5 +1,5 @@
 ### Hi there 👋
-![djose1164's GitHub stats](https://github-readme-stats.vercel.app/api?username=djose1164&count_private=true)
+![djose1164's GitHub stats](https://github-readme-stats.vercel.app/api?username=djose1164&count_private=true&show_icon=true&theme=onedark)
 <!--
 **djose1164/djose1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
