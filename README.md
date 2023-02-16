@@ -3,11 +3,11 @@
 <!--
 **djose1164/djose1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=djose1164&color=blue)
 
 
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: on Twitter & Telegram @djose1164
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Sometimes bugs are quite simple once you have a clear objective
 -->
